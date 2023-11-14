@@ -1,4 +1,5 @@
 # creating post-message
+-To create a database
 
 # DDL Commands
 # Create Tables
