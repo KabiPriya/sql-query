@@ -1,4 +1,4 @@
-#creating post-message
+# creating post-message
 
 # DDL Commands
 # Create Tables
