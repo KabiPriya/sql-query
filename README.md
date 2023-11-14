@@ -1,4 +1,4 @@
-# creating post-message
+# Create Database
 - To create a database:
 - CREATE DATABASE post-message;
 
