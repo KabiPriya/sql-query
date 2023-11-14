@@ -17,10 +17,13 @@ Posts Table:
 Likes Table:
 
 - CREATE TABLE likes(likeid SERIAL PRIMARY KEY NOT NULL, postid SERIAL REFERENCES posts(postid), userid SERIAL REFERENCES users(userid));
-# Inserting values
+To insert values into Users , Posts and Likes:
 
+Insert into Users:
 
 - INSERT INTO users(name) VALUES('Edina'),('Colin'),('Glenda'),('Paula');
+
+Insert into Posts:
 
 - INSERT INTO posts(postcontent, userid) VALUES('craft',1),('sale',1),('design',1),('tips',1),('lesson',1); INSERT INTO posts(postcontent, userid) VALUES('animal',2),('cartoon',2),('gift',2),('meme',2),('craft',2); INSERT INTO posts(postcontent, userid) VALUES('forest',3),('bikesale',3),('book',3),('award',3),('comedy',3); INSERT INTO posts(postcontent, userid) VALUES('gold',4),('awarness',4),('Experiments',4),('landsale',4),('tricks',4);
 
