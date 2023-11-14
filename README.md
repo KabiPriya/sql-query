@@ -1,4 +1,4 @@
-# Creating insta-clone
+
 
 # DDL Commands
 # Create Tables
