@@ -1,5 +1,6 @@
 # creating post-message
--To create a database
+- To create a database:
+- CREATE DATABASE post-message;
 
 # DDL Commands
 # Create Tables
